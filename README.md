@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me surajdevraye@gmail.com
 
 <!---
 DevrayePatil/DevrayePatil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
